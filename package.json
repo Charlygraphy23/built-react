@@ -1,0 +1,17 @@
+{
+  "name": "reacrt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/hello.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
